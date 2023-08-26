@@ -123,7 +123,7 @@ return (
 
 ![greeting_your_name](assets/images/greeting_your_name.png)
 
-- [ ] `idknwhoru.near/widget/GreetingToday`을 fork 하고 실행 화면을 `Hello Agwn! Today is 07-09-2023` 바꿔보세요.
+- [ ] `idknwhoru.near/widget/GreeterToday`을 fork 하고 실행 화면을 `Hello Agwn! Today is 07-09-2023` 바꿔보세요.
 
 ![preview_greeting](assets/images/preview_greeting.png)
 
