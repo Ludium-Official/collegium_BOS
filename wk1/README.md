@@ -15,9 +15,10 @@
 ![nearpad_editor](assets/images/nearpad_editor.png)
 
 ## 2. 새 컴포넌트 만들기
-1. Crerate Widget 버튼을 클릭해주세요.
+> jutso에서는 nearpad와 다르게 처음 계정 연동하고 난 뒤에 Create Widget과 Open Widget이 나타나지 않습니다. 1번 과정은 생략해주세요.
+~~1. Crerate Widget 버튼을 클릭해주세요.~~
 
-![create_widget](assets/images/create_widget.png)
+~~![create_widget](assets/images/create_widget.png)~~
 
 ## 3. 지갑 연결하기
 1. Connect 버튼을 클릭해주세요.
