@@ -1,9 +1,9 @@
 # Collegium-BOS-WK3
-
+> ❗ nearpad.dev 사이트가 jutsu.ai로 변경되었습니다. 이미지 참고 자료에 나와있는 nearpad.dev 주소를 신경쓰지 말고 작업해주세요.
 ## 주제: 소셜 DB 컨트랙트에서 데이터를 가져오기
 
 ## 1. 온라인 에디터 환경 접속하기
-1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
+1. [jutsu 편집기](https://jutsu.ai/editor) 사이트에 접속해주세요.
 
 ## 2. indexer를 이용하여 내 게시글 불러오기
 1. `idknwhoru.near/widget/collegium.bos.wk3.MyPosts` 위젯을 fork 해주세요.
