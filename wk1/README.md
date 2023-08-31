@@ -4,13 +4,13 @@
 이번 과제는 이름을 입력하고 친근한 인사말을 렌더링하는 간단한 애플리케이션을 만듭니다.
 
 ## 1. 온라인 에디터 환경 접속하기
-1. [nearpad](https://nearpad.dev/) 사이트에 접속해주세요.
+1. [jutsu](https://jutsu.ai/) 사이트에 접속해주세요.
 
 2. TRY FOR FREE 버튼을 클릭해주세요.
 
 ![TRY FOR FREE](assets/images/nearpad.png)
 
-3. [nearpad 편집기](https://nearpad.dev/editor)가 나타나는 것을 확인해주세요.
+3. [jutsu 편집기](https://jutsu.ai/editor)가 나타나는 것을 확인해주세요.
 
 ![nearpad_editor](assets/images/nearpad_editor.png)
 
