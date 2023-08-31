@@ -3,7 +3,7 @@ BOS 콜리지움 미션북은 BOS를 활용한 컴포넌트 제작 과정을 다
 
 ---
 ## Mission 1 - 컴포넌트와 컴포지션 만들기
-[Nearpad 편집기](https://nearpad.dev/editor)를 사용하여 간단한 BOS 컴포넌트를 만든다. 간단한 컴포넌트 제작과 위젯 활용 방법을 다루고 있다.
+[jutsu 편집기](https://jutsu.ai/editor)를 사용하여 간단한 BOS 컴포넌트를 만든다. 간단한 컴포넌트 제작과 위젯 활용 방법을 다루고 있다.
 
 [**Mission 1 수행 페이지 바로가기**](wk1/)
 
