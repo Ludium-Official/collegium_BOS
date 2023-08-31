@@ -1,9 +1,9 @@
 # Collegium-BOS-WK2
-
+> ❗ nearpad.dev 사이트가 jutsu.ai로 변경되었습니다. 이미지 참고 자료에 나와있는 nearpad.dev 주소를 신경쓰지 말고 작업해주세요.
 ## 주제: 위젯을 좀 더 인터렉티브하게 만들기
 
 ## 1. 온라인 에디터 환경 접속하기
-1. [nearpad 편집기](https://nearpad.dev/editor) 사이트에 접속해주세요.
+1. [jutsu 편집기](https://jutsu.ai/editor) 사이트에 접속해주세요.
 
 ## 2. State를 이용하여 UI에 변경을 발생시키기
 1. `idknwhoru.near/widget/collegium.bos.wk2.StateWidget` 위젯을 fork 해주세요.
