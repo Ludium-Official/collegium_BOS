@@ -126,6 +126,8 @@ return (
 ![greeting_your_name](assets/images/greeting_your_name.png)
 
 - [ ] `idknwhoru.near/widget/GreeterToday`을 fork 하고 실행 화면을 `Hello Agwn! Today is 07-09-2023` 바꿔보세요.
+> 위젯의 소스 코드를 실행하지 않고, `jutsu.ai`의 Props를 이용해보세요!
+> 2번 과제의 결과물은 위젯 주소와 `jutsu.ai`에서 과제를 실습한 화면을 캡쳐한 이미지를 첨부 해주세요.
 
 ![preview_greeting](assets/images/preview_greeting.png)
 
