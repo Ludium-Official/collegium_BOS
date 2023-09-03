@@ -121,7 +121,7 @@ return (
 ![my_widget_composition](assets/images/my_widget_composition.png)
 
 ## Mission
-- [ ] Greeter 위젯의 이름을 `GreetingYourName`으로 바꿔보세요.
+- [ ] Greeter 위젯의 이름을 `GreeterYourName`으로 바꿔보세요.
 
 ![greeting_your_name](assets/images/greeting_your_name.png)
 
