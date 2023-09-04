@@ -1,0 +1,9 @@
+- [x] Greeter 위젯의 이름을 GreetingYourName 으로 바꿔보세요.
+    - https://near.org/party-dhsimpson.near/widget/GreetingYourName?name=party-dhsimpson.near
+    - ![mission_greeting.png](mission_greeting.png)
+- [x] idknwhoru.near/widget/GreeterToday을 fork 하고 실행 화면을 Hello Agwn! Today is 07-09-2023 바꿔보세요.
+    - https://near.org/party-dhsimpson.near/widget/GreeterToday?name=party-dhsimpson.near&date=03-09-2023
+    - ![mission_today.png](mission_today.png)
+- [x] Composition에 포함된 위젯을 idknwhoru.naer/widget/Greeter에서 다른 위젯으로 바꿔보세요.(위젯을 검색하는 방법은 4. Greeter 위젯 불러오기와 6. Composition 만들기를 참고)
+    - https://near.org/party-dhsimpson.near/widget/Composition
+    - ![mission_composition.png](mission_composition.png)
