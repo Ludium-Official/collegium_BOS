@@ -1,9 +1,13 @@
 # Collegium-BOS-WK1
+
 > ❗ `nearpad.dev` 사이트가 `jutsu.ai`로 변경되었습니다. 이미지 참고 자료에 나와있는 `nearpad.dev` 주소를 신경쓰지 말고 작업해주세요.
+
 ## 주제: 컴포넌트와 컴포지션 만들어보기
+
 이번 과제는 이름을 입력하고 친근한 인사말을 렌더링하는 간단한 애플리케이션을 만듭니다.
 
 ## 1. 온라인 에디터 환경 접속하기
+
 1. [jutsu](https://jutsu.ai/) 사이트에 접속해주세요.
 
 2. TRY FOR FREE 버튼을 클릭해주세요.
@@ -15,6 +19,7 @@
 ![nearpad_editor](assets/images/nearpad_editor.png)
 
 ## 2. 새 컴포넌트 만들기
+
 > jutso에서는 nearpad와 다르게 처음 계정 연동하고 난 뒤에 Create Widget과 Open Widget이 나타나지 않습니다. 1번 과정은 생략해주세요.
 
 ~~1. Crerate Widget 버튼을 클릭해주세요.~~
@@ -22,6 +27,7 @@
 ![create_widget](assets/images/create_widget.png)
 
 ## 3. 지갑 연결하기
+
 1. Connect 버튼을 클릭해주세요.
 
 ![connect_button](assets/images/connect_button.png)
@@ -39,11 +45,12 @@
 ![connect_near_dialog](assets/images/connect_near_dialog.png)
 
 ## 4. Greeter 위젯을 불러오기
+
 1. search component button을 클릭해주세요.
 
 ![search_component_button](assets/images/search_component_button.png)
 
-2. `idknwhoru.near/widget/greeter` 을 검색 해주세요 
+2. `idknwhoru.near/widget/greeter` 을 검색 해주세요
 
 ![search_component](assets/images/search_component.png)
 
@@ -60,21 +67,25 @@
 ![greeter_code](assets/images/greeter_code.png)
 
 ## 5. Greeter 위젯에 Props를 전달하기
+
 1. Props 탭을 선택해주세요.
 
 ![props_tab](assets/images/props_tab.png)
 
 2. props 에디터에 아래 내용을 추가해주세요.
-``` json
+
+```json
 {
   "name": "WHORU"
 }
 ```
+
 3. Preview 탭에 표시되는 화면이 바뀐것을 확인해주세요.
 
 ![preview_whoru](assets/images/preview_whoru.png)
 
 ## 6. Composition 컴포넌트 만들기
+
 1. Add new button 버튼을 클릭해주세요.
 
 ![add_new_button](assets/images/add_new_button.png)
@@ -85,7 +96,8 @@
 ![composition_component](assets/images/composition.png)
 
 4. 아래 코드를 Composition의 코드에 추가해주세요.
-``` jsx
+
+```jsx
 // user의 값은 자신의 지갑 주소를 입력해주세요.
 const user = "idknwhoru.near";
 
@@ -102,7 +114,7 @@ return (
 
 5. Previe에 `Greeter` 위젯이 포함된 컴포지션이 화면에 나타나는지 확인해주세요.
 
-![preview_composition](assets/images/preview_composition.png) 
+![preview_composition](assets/images/preview_composition.png)
 
 6. Publish 버튼을 클릭해주세요.
 
@@ -121,16 +133,21 @@ return (
 ![my_widget_composition](assets/images/my_widget_composition.png)
 
 ## Mission
+
 - [ ] Greeter 위젯의 이름을 `GreeterYourName`으로 바꿔보세요.
 
-![greeting_your_name](assets/images/greeting_your_name.png)
+![greeting_your_name](assets/images/greeting_Sunny.png)
+https://near.social/sunny0827.near/widget/GreeterSunny?name=Sunny
 
 - [ ] `idknwhoru.near/widget/GreeterToday`을 fork 하고 실행 화면을 `Hello Agwn! Today is 07-09-2023` 바꿔보세요.
-> 위젯의 소스 코드를 실행하지 않고, `jutsu.ai`의 Props를 이용해보세요!
-> 2번 과제의 결과물은 위젯 주소와 `jutsu.ai`에서 과제를 실습한 화면을 캡쳐한 이미지를 첨부 해주세요.
+  > 위젯의 소스 코드를 실행하지 않고, `jutsu.ai`의 Props를 이용해보세요!
+  > 2번 과제의 결과물은 위젯 주소와 `jutsu.ai`에서 과제를 실습한 화면을 캡쳐한 이미지를 첨부 해주세요.
 
 ![preview_greeting](assets/images/preview_greeting.png)
+https://near.social/sunny0827.near/widget/GreeterToday?peername=Agwn&date=07-09-2023
 
 - [ ] Composition에 포함된 위젯을 `idknwhoru.naer/widget/Greeter`에서 다른 위젯으로 바꿔보세요.(위젯을 검색하는 방법은 4. Greeter 위젯 불러오기와 6. Composition 만들기를 참고)
 
 ![container_load_harmonicHomPage](assets/images/container_load_harmonicHomPage.png)
+greeter 예시모양 없어서 비슷하게 하나 만들었습니다. https://near.social/sunny0827.near/widget/Greeter?program=Harmonic%20Guild&greeting=Check%20our%20latest%20fully%20onchain%20Apps%20below.
+새로 만든 greeter 넣었습니다. https://near.social/sunny0827.near/widget/Composition?program=Harmonic%20Guild&greeting=Check%20our%20latest%20fully%20onchain%20Apps%20below.
