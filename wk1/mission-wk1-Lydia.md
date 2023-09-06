@@ -6,7 +6,7 @@
 
 
 ### ▶️ 애플리케이션 링크
-`1ba559fa69bd98e4d44fdc38a35932deeb46d3a3637885d7a56c8f27a9f9d751/widget/Composition`
+[Lydia의 링크 바로가기](https://near.org/1ba559fa69bd98e4d44fdc38a35932deeb46d3a3637885d7a56c8f27a9f9d751/widget/Composition)
   > ~.near 이름으로 설정한 주소가 아닌 다른 주소로 배포해버려서 이번만 주소가 이렇게... 
 
 ### ▶️ 참고자료(이미지)
@@ -19,3 +19,7 @@
 
 - 검색을 통해 새로운 위젯 넣어보기 (Calendar 위젯 넣음) 
 <img width="1451" alt="스크린샷 2023-09-06 오전 3 18 08" src="https://github.com/lydiacho/collegium_BOS/assets/81505421/533e2622-6829-4538-ba7e-281243e6df6d">
+
+### 👉🏻 느낀점 
+jutsu를 이용하니 막연하게 느껴졌던 BOS FE 개발이 편리했고, 블록체인에 배포하는 것도 매우 간편한 것 같아요.
+특히 다른 분들이 만들어 놓은 컴포넌트(위젯)을 매우 쉽게 둘러보고 활용할 수 있는 점이 인상깊었습니다! 
