@@ -1,5 +1,5 @@
 - [X] Greeter 위젯의 이름을 GreeterYourName으로 바꿔보세요.
-  - https://near.org/14ea88d51603eb512dae55d259b805b74b58c6ade02df799706c3e12ab26c14a/widget/GreetingYourName
+  - https://near.org/14ea88d51603eb512dae55d259b805b74b58c6ade02df799706c3e12ab26c14a/widget/GreeterYourName
   ![스크린샷 2023-09-05 오전 10 47 35](https://github.com/SeokJingu/collegium_BOS/assets/98717916/514ff391-dd41-488c-880a-bdece23c3c0a)
 - [X] idknwhoru.near/widget/GreeterToday을 fork 하고 실행 화면을 Hello Agwn! Today is 07-09-2023 바꿔보세요.
   ![스크린샷 2023-09-05 오전 10 45 32](https://github.com/SeokJingu/collegium_BOS/assets/98717916/fa7c29c8-6617-4f22-9bd1-dc77279797cd)
