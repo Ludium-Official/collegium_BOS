@@ -1,0 +1,7 @@
+- [X] Greeter 위젯의 이름을 GreetingYourName으로 바꿔보세요.
+- https://near.org/idknwhoru.near/widget/GreeterYourName
+- [X] idknwhoru.near/widget/GreetingToday을 fork 하고 실행 화면을 Hello Agwn! Today is 07-09-2023 바꿔보세요.
+- https://near.org/idknwhoru.near/widget/GreeterToday?name=Agwn&date=07-09-2023
+- ![image](https://github.com/IDKNWHORU/collegium_BOS/assets/49608580/ba5dd9f7-e6af-4494-859f-9a7bf9bb2e1f)
+- [X] Composition에 포함된 위젯을 idknwhoru.naer/widget/Greeter에서 다른 위젯으로 바꿔보세요.(위젯을 검색하는 방법은 4. Greeter 위젯 불러오기와 6. Composition 만들기를 참고)
+- https://near.org/idknwhoru.near/widget/Composition_Another_Widget
