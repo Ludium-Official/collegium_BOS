@@ -1,0 +1,2 @@
+2주차 과제 완료
+https://near.org/c036f1a97e5b5161fc115c15b93cd1e23fbec5718c4ea3563c1e80d01bb79673/widget/collegium.bos.wk2.LiquityOpenTroveSepoliaExample
