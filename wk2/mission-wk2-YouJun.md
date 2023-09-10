@@ -1,7 +1,7 @@
 
 a. 제목: mission-wk2-YouJun.md
 
-b. 과제 설명: Setting ETH / LUSD Liquity rule and design 
+b. 과제 설명: Setting ETH / LUSD Liquity rules and design 
 
 c. 어플리케이션 링크: 온체인에 배포(publish)한 컴포넌트 링크
 - NEAR Protocol
