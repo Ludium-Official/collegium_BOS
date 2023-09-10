@@ -4,3 +4,5 @@
     - ![mission_css.png](mission_css.png)
 - [x] openTrove 기능의 가스 비용을 최적화 하기 위해 NICR이라는 값을 계산해야 합니다. openTrove 함수에 NICR을 계산하는 기능을 추가해주세요.
     - ![mission_nicr.png](mission_nicr.png)
+
+결과물 위젯 : https://near.social/party-dhsimpson.near/widget/collegium.bos.wk2.LiquityOpenTroveSepoliaExample
