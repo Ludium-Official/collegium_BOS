@@ -1,0 +1,5 @@
+2회차 과제 완료
+
+https://near.org/smleekr.near/widget/collegium.bos.wk2.LiquityOpenTroveSepoliaExample
+
+![image](https://github.com/seongmoolee/collegium_BOS/assets/92480085/f16110fa-3ea2-45ac-b010-51e5e4616c20)
