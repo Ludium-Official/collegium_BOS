@@ -6,7 +6,7 @@
     - <img src="mission_css.png" alt="mission_css.png" width="700px"/>
 - [x] openTrove 기능의 가스 비용을 최적화 하기 위해 NICR이라는 값을 계산해야 합니다. openTrove 함수에 NICR을 계산하는 기능을 추가해주세요.
     - <img src="mission_nicr.png" alt="mission_nicr.png" width="700px"/>
-
+ - [x] advance : 원활한 테스트를 위해 closeTrove 기능 구현
 ## 결과물 위젯
  - https://near.social/party-dhsimpson.near/widget/collegium.bos.wk2.LiquityOpenTroveSepoliaExample
 
