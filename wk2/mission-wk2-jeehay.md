@@ -69,7 +69,8 @@ const _1e20 = ethers.BigNumber.from(ethers.utils.parseEther("100"));
    * 참고 문서: https://docs.ethers.org/v5/api/utils/bignumber/#BigNumber--BigNumber--methods--math-operations
    * 입력창에 2ETH, 1800LUSD를 입력했을 때 NICR.toString()의 결과 값: "99552015928322548"
    */
-  const NICR = (ETHColl * _1e20) / expectedDebt;
+  // const NICR = (ETHColl * _1e20) / expectedDebt;
+  const NICR = ETHColl.mul(_1e20).div(expectedDebt)
   console.log({ NICR: NICR.toString() });
 
 ```
