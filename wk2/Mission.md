@@ -15,4 +15,5 @@
         - hint 2: hint 1의 자료가 부족할 경우 [이 문서](https://docs.ethers.org/v5/)를 참고해주세요.
           ![bos_2주차_과제_3번](./bos_2주차_과제_3번.png)
 
+- 배포한 bos 컴포넌트 링크: https://near.org/near/widget/ComponentDetailsPage?src=6adbe3aca46fef824ed95c24b625c18fd7c6d978ff713ea11a22cd5b028940f2/widget/collegium.bos.wk2.LiquityOpenTroveSepoliaExample
 - [결과물 확인 안내](https://github.com/LudiumAgwn/collegium-bos-wk2/tree/mission_result)
