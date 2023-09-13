@@ -1,0 +1,9 @@
+- 과제 설명
+- [X] openTrove가 성공한 지갑은 closeTrove가 실행되기 전까지 이 지갑은 이미 활성화된 트로브가 있습니다. 메세지를 표시해주세요.
+- [X] borrowWrapper 컴포넌트의 스타일을 외부 css파일을 불러와서 적용해보세요.
+- [X] openTrove 기능의 가스 비용을 최적화 하기 위해 NICR이라는 값을 계산해야 합니다. openTrove 함수에 NICR을 계산하는 기능을 추가해주세요.
+- 링크 : https://near.org/ebcf2af7ee0a89f3de0d5ca125069f64ee966b68a9b9eb5216751d6a8de89c01/widget/LiquityOpenTroveSepoliaExample
+- 느낀 점
+  - 단순 리액트 컴포넌트를 만들어서 배포하는 것보다 고려할 것(deposit을 일정량 이상 설정해줘야 한다던가, 특정 사이트에선 실행이 안된다던가)들이 많아서 혼자서 해내기엔 조금 버거웠을 거라는 생각이 들었다 <br>
+  - 또한 jutsu.ai에서 publish을 때와는 달리 near.org/sandbox에서 publish 했을 때는 프로필의 내 component에서도 확인이 안되서 잠시 헤맸던것 같다 <br>
+  - 마지막으로 할 때마다 돈 나가는걸 생각안하고... 괜히 이름 바꾼다고 여러번 savedata 시전하다가 NEAR를 허공에 날려버려서 아쉬움
