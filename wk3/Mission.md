@@ -17,7 +17,7 @@
 
 ![my_page](assets/images/my_page.png)
 
-#### [결과물 확인]([https://near.org/idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage](https://near.org/c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission))
+#### [결과물 확인](https://near.org/c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission)
 
-#### [결과물 소스 코드 확인]([https://near.org/near/widget/ComponentDetailsPage?src=idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage](https://near.org/near/widget/ComponentDetailsPage?src=c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission&tab=source)https://near.org/near/widget/ComponentDetailsPage?src=c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission&tab=source)
+#### [결과물 소스 코드 확인](https://near.org/near/widget/ComponentDetailsPage?src=c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission&tab=source)https://near.org/near/widget/ComponentDetailsPage?src=c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80/widget/collegium.bos.wk3.Mission&tab=source)
 ![screencapture-near-org-c842b1a648114a20cfca00f01718ee4c6f46d772951d9f8f31dffc189da63b80-widget-collegium-bos-wk3-Mission-2023-09-19-16_21_47](https://github.com/dongkyun2331/eth/assets/119479530/ddcc4564-6698-4c80-8d8d-996c805399fd)
