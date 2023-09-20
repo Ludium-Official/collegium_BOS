@@ -13,6 +13,9 @@
 - [x] 위젯 이름
 - [x] 위젯 이름을 클릭하면 새 탭에서 위젯을 실행할 수 있습니다.
 
+#### 와이어 프레임
+![my_page](./assets/images/my_page.png)
+
 #### [결과물 확인](https://near.org/idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage)
 
 #### [결과물 소스 코드 확인](https://near.org/near/widget/ComponentDetailsPage?src=idknwhoru.near/widget/collegium.bos.wk3.MyProfilePage)
