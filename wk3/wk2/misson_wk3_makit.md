@@ -1,0 +1,2 @@
+https://near.org/14ea88d51603eb512dae55d259b805b74b58c6ade02df799706c3e12ab26c14a/widget/my_info
+
